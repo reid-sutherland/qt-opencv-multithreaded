@@ -1,0 +1,6 @@
+/home/reid/qt-opencv-multithreaded-master/build/CMakeFiles/edit_cache.dir
+/home/reid/qt-opencv-multithreaded-master/build/CMakeFiles/rebuild_cache.dir
+/home/reid/qt-opencv-multithreaded-master/build/src/CMakeFiles/edit_cache.dir
+/home/reid/qt-opencv-multithreaded-master/build/src/CMakeFiles/rebuild_cache.dir
+/home/reid/qt-opencv-multithreaded-master/build/src/CMakeFiles/qt-opencv-multithreaded.dir
+/home/reid/qt-opencv-multithreaded-master/build/src/CMakeFiles/qt-opencv-multithreaded_automoc.dir

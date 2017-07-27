@@ -1,0 +1,6 @@
+# Hashes of file build rules.
+9e59fec9febdae98d21bef570fcfdaa1 src/CMakeFiles/qt-opencv-multithreaded_automoc
+7f0b8219cd09b116c13743835f014dec src/ui_CameraConnectDialog.h
+71b1310c46f9afe8c8bbe7a5de89e46e src/ui_CameraView.h
+663247ad771f5779abe672545d35589a src/ui_ImageProcessingSettingsDialog.h
+24ff75d9051e715a6e8a51b0e955351a src/ui_MainWindow.h
